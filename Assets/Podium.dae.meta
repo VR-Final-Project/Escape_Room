@@ -1,0 +1,238 @@
+fileFormatVersion: 2
+guid: 69b3b444a3f9d6c40a32bd45ae0f1ca6
+timeCreated: 1511810572
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bracket
+    100002: Bracket 1
+    100004: Bracket 10
+    100006: Bracket 11
+    100008: Bracket 12
+    100010: Bracket 13
+    100012: Bracket 14
+    100014: Bracket 15
+    100016: Bracket 2
+    100018: Bracket 3
+    100020: Bracket 4
+    100022: Bracket 5
+    100024: Bracket 6
+    100026: Bracket 7
+    100028: Bracket 8
+    100030: Bracket 9
+    100032: Component
+    100034: Face
+    100036: instance_0
+    100038: instance_1
+    100040: instance_10
+    100042: instance_11
+    100044: instance_12
+    100046: instance_13
+    100048: instance_14
+    100050: instance_15
+    100052: instance_16
+    100054: instance_17
+    100056: instance_18
+    100058: instance_19
+    100060: instance_2
+    100062: instance_20
+    100064: instance_21
+    100066: instance_22
+    100068: instance_3
+    100070: instance_4
+    100072: instance_5
+    100074: instance_6
+    100076: instance_7
+    100078: instance_8
+    100080: instance_9
+    100082: //RootNode
+    100084: Shelf
+    100086: Side
+    100088: Side 1
+    100090: skp_camera_Last_Saved_SketchUp_View
+    100092: Stop
+    100094: Top
+    400000: Bracket
+    400002: Bracket 1
+    400004: Bracket 10
+    400006: Bracket 11
+    400008: Bracket 12
+    400010: Bracket 13
+    400012: Bracket 14
+    400014: Bracket 15
+    400016: Bracket 2
+    400018: Bracket 3
+    400020: Bracket 4
+    400022: Bracket 5
+    400024: Bracket 6
+    400026: Bracket 7
+    400028: Bracket 8
+    400030: Bracket 9
+    400032: Component
+    400034: Face
+    400036: instance_0
+    400038: instance_1
+    400040: instance_10
+    400042: instance_11
+    400044: instance_12
+    400046: instance_13
+    400048: instance_14
+    400050: instance_15
+    400052: instance_16
+    400054: instance_17
+    400056: instance_18
+    400058: instance_19
+    400060: instance_2
+    400062: instance_20
+    400064: instance_21
+    400066: instance_22
+    400068: instance_3
+    400070: instance_4
+    400072: instance_5
+    400074: instance_6
+    400076: instance_7
+    400078: instance_8
+    400080: instance_9
+    400082: //RootNode
+    400084: Shelf
+    400086: Side
+    400088: Side 1
+    400090: skp_camera_Last_Saved_SketchUp_View
+    400092: Stop
+    400094: Top
+    2000000: skp_camera_Last_Saved_SketchUp_View
+    2300000: Bracket
+    2300002: Bracket 1
+    2300004: Bracket 10
+    2300006: Bracket 11
+    2300008: Bracket 12
+    2300010: Bracket 13
+    2300012: Bracket 14
+    2300014: Bracket 15
+    2300016: Bracket 2
+    2300018: Bracket 3
+    2300020: Bracket 4
+    2300022: Bracket 5
+    2300024: Bracket 6
+    2300026: Bracket 7
+    2300028: Bracket 8
+    2300030: Bracket 9
+    2300032: Face
+    2300034: Shelf
+    2300036: Side
+    2300038: Side 1
+    2300040: Stop
+    2300042: Top
+    3300000: Bracket
+    3300002: Bracket 1
+    3300004: Bracket 10
+    3300006: Bracket 11
+    3300008: Bracket 12
+    3300010: Bracket 13
+    3300012: Bracket 14
+    3300014: Bracket 15
+    3300016: Bracket 2
+    3300018: Bracket 3
+    3300020: Bracket 4
+    3300022: Bracket 5
+    3300024: Bracket 6
+    3300026: Bracket 7
+    3300028: Bracket 8
+    3300030: Bracket 9
+    3300032: Face
+    3300034: Shelf
+    3300036: Side
+    3300038: Side 1
+    3300040: Stop
+    3300042: Top
+    4300000: Face
+    4300002: Side
+    4300004: Shelf
+    4300006: Stop
+    4300008: Bracket
+    4300010: Top
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material
+    second: {fileID: 2100000, guid: 50548e5bb078a784ca9f76f9315361b7, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
